@@ -18,28 +18,29 @@ The most significant use cases include creative content generation, text autocom
 
 ## **Some Results**
 
-<div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: center; max-width: 1022px;">
-        <img src="images/images_models/gen_gpt2_1.png" style="width: 511px; margin-left: 5px; object-fit: contain;">
-        <img src="images/images_models/gen_gpt2-xl_1.png" style="width: 511px; margin-left: 5px; object-fit: contain;">
-    </div>
-</div>
+<p align="left">
+<img src="images/images_models/gen_gpt2_1.png" style="width: 511px;"> 
+</p>
 
 ---
-<div style="display: flex; justify-content: left;">
-    <div style="display: flex; justify-content: center; max-width: 1033px;">
-        <img src="images/images_models/gen_gpt2-xl_3.png" style="width: 517px; margin-left: 5px; object-fit: contain;">
-        <img src="images/images_models/gen_shakespeare.png" style="width: 416px; margin-left: 5px; object-fit: contain;">
-    </div>
-</div>
+<p align="left">
+<img src="images/images_models/gen_gpt2-xl_1.png" style="width: 511px;"> 
+</p>
 
 ---
-<div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: center; max-width: 1022px;">
-        <img src="images/images_models/gen_gpt2-xl_2.png" style="width: 508px; margin-left: 5px; object-fit: contain;">
-        <img src="images/images_models/gen_gpt2_2.png" style="width: 514px; margin-left: 5px; object-fit: contain;">
-    </div>
-</div>
+<p align="left">
+<img src="images/images_models/gen_shakespeare.png" style="width: 416px;"> 
+</p>
+
+---
+<p align="left">
+<img src="images/images_models/gen_gpt2-xl_2.png" style="width: 508px;"> 
+</p>
+
+---
+<p align="left">
+<img src="images/images_models/gen_gpt2_2.png" style="width: 514px;"> 
+</p>
 
 #### *Further results can be found in their respective notebooks.*
 
